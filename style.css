@@ -1,0 +1,16 @@
+.tick line{
+    opacity: 0.2;
+    stroke-dasharray: 1 1; 
+}
+
+.highest {
+    fill: lightpink;
+}
+
+.band {
+    fill: lightblue;
+}
+
+#year-selector {
+    margin-left: 60px;
+}
